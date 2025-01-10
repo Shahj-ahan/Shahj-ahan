@@ -1,4 +1,3 @@
-Here is the organized sequence of your content for better readability and presentation:
 
 ```html
 <h1 align="center">Hi 👋, I'm Shahj-ahan</h1>
